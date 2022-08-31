@@ -323,6 +323,7 @@ body::-webkit-scrollbar-track
 }
 .contact-link{
     margin: auto;
+    margin-bottom: 50px;
 }
 .foodter-tomothy,.foodter-janeblack,.foodter-address{
     margin-top: 73px;
