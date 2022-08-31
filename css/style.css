@@ -1,0 +1,354 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'graphik';
+}
+.header{
+    background: url('../img/logo.png') no-repeat center center ;
+    height: 105vh;
+    width: 100%;
+    background-size: cover;
+}
+.desktop-Hero-Light{
+    margin-top: 200px;
+}
+
+.desktop-Hero-Light-container-headding{
+    width: 670px;
+    font-size: 74px;
+    font-weight:700 ;
+    font-family: 'graphik';
+}
+.features-content-list{
+    width: 255px;
+}
+.desktop-Hero-Light-container-p {
+    font-size: 28px; 
+}
+.fastest{
+    margin-top: 226px;
+    overflow: hidden;
+}
+.fastest-left{
+    padding-left:270px ;
+ }
+.fastest-left-headding h2{
+    font-size: 48px;
+    font-weight: 400;
+}
+.desktop-Hero-Light-btn-item{
+    width: 236px;
+    height: 52px;
+    border: transparent;
+    border-radius: 39px;
+}
+.fastest-left-content h4{
+    font-size: 28px;
+    font-weight: 400;
+}
+.nav-icon{
+    font-size: 30px;
+    margin-left: 270px;
+}
+.fastest-left-btn button{
+    width: 236px;
+    height: 60px;
+    border-radius: 35px;
+    background-color: #2091F9;
+    border: transparent;
+}
+.fingertips{
+    
+  
+    margin-top: 300px;
+    overflow: hidden;
+}
+.an{
+    display:none;
+}
+.fingertips-content h3,
+.fingertips-form h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+.fingertips-content h2
+{
+    font-size: 48px;
+    font-weight: 100;
+}
+.fingertips-form h3{
+    font-size: 18px;
+    font-weight: 400;
+}
+.fingertips-form input{
+   width: 273px;
+   height: 54px;
+   border-radius: 39px;
+   padding:0 39px; 
+   border: transparent;
+   background-color: #F4F4F4;
+}
+.fingertips-form button{
+    width: 172px;
+    height: 58px;
+    border-radius: 39px;
+    padding:0 39px; 
+    border: transparent;
+    background-color: #2091F9;
+ }
+ .fingertips-headding{
+   padding-left: 200px;
+ }
+.partners{
+    margin-top: 120px;
+}
+
+.partners-item{
+    width: 237px;
+    height: 163px;
+}
+.partners-item-hien{
+    width: 237px;
+    height: 163px;
+}
+.partners-submit button{
+    width: 236px;
+    height: 60px;
+    background: #2091F9;
+    border-radius: 35px;
+    border: transparent;
+}
+.Testimonials-content h4{
+    width: 850px;
+    font-weight: 400;
+    font-size: 28px;
+}
+.Testimonials-headding h2{
+    opacity: 0.5;
+    font-size: 48px;
+    font-weight: 400;
+}
+.Testimonials-submit button{
+    width: 276px;
+    height: 60px;
+    border-radius: 35px;
+    background-color: #2091F9;
+    border: none;
+    font-weight: 700;
+}
+.pricing-oder-list-item-one-p{
+    width: 158px;
+}
+.pricing-oder-list
+{
+    background-color: #fff;
+    width: 335px;
+    height: 607px;
+    border-radius: 10px;
+}
+.pricing-oder-list-hover{
+    width: 335px;
+    height: 693px;
+    margin-top: -50px;
+    background-color: #2091F9;
+    border-radius: 10px; 
+}
+.pricing-oder-list-item-two-price h1,
+.pricing-oder-list-item-two-stan-price h1,
+.pricing-oder-list-item-busi-two-price h1{
+    font-size: 74px;
+    font-weight: 700;
+}
+.pricing-btn,.pricing-btn-hover{
+    width: 255px;
+    height: 56px;
+    background: #2091F9;
+    border-radius: 35px;
+    border: transparent;
+}
+.pricing-content-heading h2{
+    font-size: 48px;
+    font-weight: 400;
+}
+.pricing-content-p p{
+    font-size: 28px;
+    font-weight: 400;
+}
+.contact-link{
+    list-style: none;
+}
+.contact-form{
+    width: 453px;
+    height: 669px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+}
+.contact-form input{
+    width: 100%;
+    height: 54px;
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+    border-radius: 39px;
+}
+.contact-form button{
+    width: 100%;
+    height: 56px;
+    background: #2091F9;
+    border-radius: 35px;
+    border: transparent;
+}
+.contact-form textarea{
+    width: 100%;
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+}
+.contact-address-item i{
+    font-size: 31px;
+    color: #2091F9;
+}
+.contact-link{
+    font-size: 31px;
+}
+.foodter-link a,.addrest a,.phone a{
+    text-decoration: none;
+    color: #fff;
+    opacity: 0.8;
+}
+.nav-item{
+    list-style: none;
+}
+.icon{
+    font-size: 36px;
+}
+.foodter{
+    padding: 150px 0;
+}
+.show{
+    position: absolute;
+    background:#2091F9;
+    z-index: 2;
+    top: 100px;
+    right: 0;
+    width: 100%;
+    height: 181px;
+}
+.collapsing{
+    display: none;
+}
+body::-webkit-scrollbar-track
+{
+    background-color: rgba(red, green, blue, alpha);
+}
+@media screen and (max-width:921px) {
+    .in{
+        display: none;
+    }
+ .fastest{
+    margin-top: 70px;
+    }
+ .fastest-left{
+    padding: 0 50px ;
+    text-align:center ;
+ }
+ .fastest-right-img{
+    padding:0 10px ;
+    margin-top: 50px;
+ }
+ .features-content-list
+{
+    margin-top: 20px;
+}
+.features-content{
+    order: 2;
+}
+.fingertips-content{
+    text-align: center;
+}
+.hi{
+    display: none;
+}
+.an{
+    display: block;
+}
+.fingertips-img{
+    padding-right:20px;
+}
+.fingertips-form button{
+    width: 100%;
+}
+.fingertips-form input{
+    width: 100%;
+}
+.fingertips-form {
+    text-align: center;
+}
+.fingertips{
+    margin-top: 50px;
+}
+.fingertips-headding{
+    padding-left: 0px;
+  }
+.partners-item{
+    display: none !important;
+}
+.partners-item-hien{
+    margin-top: 30px;
+}
+.Testimonials-content h4{
+    width: 280px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.Testimonials-headding h2{
+    opacity: 1;
+    font-size: 48px;
+    font-weight: 400;
+}
+.pricing-oder-list,.pricing-oder-list-hover{
+    margin: auto;
+    margin-bottom: 50px;
+}
+.pricing-content-p{
+    width: 256px;
+}
+.contact-form{
+    width: 378px;
+   margin: auto;
+}
+.contact-address-item{
+    display: flex;
+    flex-direction: row;
+}
+.contact-link{
+    margin: auto;
+}
+.foodter-tomothy,.foodter-janeblack,.foodter-address{
+    margin-top: 73px;
+}
+.foodter-address{
+  margin-left: 160px;
+}
+.desktop-Hero-Light-container-headding {
+    font-weight: 400;
+    font-size: 48px;
+    width: 333px;
+}
+.desktop-Hero-Light-container-p{
+    width: 265px;
+    margin-top: 50px;
+}
+.desktop-Hero-Light{
+    margin-top: 80px;
+}
+.nav-item{
+    width: 100%;
+    height: 36px;
+    border: 1px solid #fff;
+}
+.nav-item:hover{
+    background: #000;
+}
+}
+
